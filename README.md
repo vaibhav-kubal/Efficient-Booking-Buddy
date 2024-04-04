@@ -1,4 +1,4 @@
-# Hotel Reservation System 🏨
+# Efficeient Booking Buddy 🏨
 
 The Hotel Reservation System is a Java-based application designed to manage hotel reservations efficiently. 
 This system provides a set of features to handle reservations, view existing bookings, retrieve room numbers, update guest information, and delete reservations.
